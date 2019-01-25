@@ -1,7 +1,8 @@
 #pragma once
 // Your name
+// Your UMKC Email Address
 // Today's date
-// Exam 2
+// CS201L Lab 12
 
 #include <string>
 using namespace std;
